@@ -3,4 +3,4 @@ a machine learning model that will classify SMS messages as either "ham" or "spa
 
 
 [![CS50Certificate](Machine Learning with Python -Freecodecamp.PNG)](https://freecodecamp.org/certification/HAQ-NAWAZ-MALIK/machine-learning-with-python-v7)
-[!Machine Learning with Python -Freecodecamp](Machine Learning with Python -Freecodecamp.PNG)
+![Certificate!](MachineLearningwithPython-Freecodecamp.PNG)
